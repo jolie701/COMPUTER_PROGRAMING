@@ -21,6 +21,10 @@ A classic arcade-style Snake Game designed for two players, implemented as part 
 
 *Note: Keybindings can be customized within the source code.*
 
+## Environment
+* **Language:** C / C++
+* **Compiler:** GCC (GNU GCC Compiler) / Clang
+* **IDE/Editor Environment:** Standard terminal or standard C++ development environment (e.g., Code::Blocks)
 ---
 
 ## How to Run
@@ -39,7 +43,3 @@ g++ main.cpp -o snake_game
 # Run the game
 ./snake_game
 
-## Environment
-* **Language:** C / C++
-* **Compiler:** GCC (GNU GCC Compiler) / Clang
-* **IDE/Editor Environment:** Standard terminal or standard C++ development environment (e.g., Code::Blocks)
