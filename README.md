@@ -38,3 +38,8 @@ g++ main.cpp -o snake_game
 
 # Run the game
 ./snake_game
+
+## Environment
+* **Language:** C / C++
+* **Compiler:** GCC (GNU GCC Compiler) / Clang
+* **IDE/Editor Environment:** Standard terminal or standard C++ development environment (e.g., Code::Blocks)
